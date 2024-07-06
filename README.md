@@ -1,4 +1,5 @@
 # Git-Demo
 This is my first repository
 <br>
-Author- Kriti Singh
+Author- Kriti (MIT)
+
